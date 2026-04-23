@@ -1,38 +1,43 @@
-🌐 Personal Portfolio Website
+# 🌐 Personal Portfolio Website
 
 Welcome to my personal portfolio website project! This website showcases my skills, projects, and experience as a Computer Science undergraduate and aspiring Network Engineer / Cybersecurity Enthusiast.
 
+---
+
 ## 📷 Screenshots
 
-### 🏠 Screenshot 1
+### 🏠 Home Section
 <p align="center">
-  <img src="assets/images/Screenshots/Screenshot%202026-04-23%20122403.png" width="85%">
+  <img src="assets/images/Screenshot%202026-04-23%20122403.png" width="85%">
 </p>
 
 ---
 
-### 👤 Screenshot 2
+### 👤 About Section
 <p align="center">
-  <img src="assets/images/Screenshots/Screenshot%202026-04-23%20122409.png" width="85%">
+  <img src="assets/images/Screenshot%202026-04-23%20122409.png" width="85%">
 </p>
 
 ---
 
-### 💼 Screenshot 3
+### 💼 Projects Section
 <p align="center">
-  <img src="assets/images/Screenshots/Screenshot%202026-04-23%20122420.png" width="85%">
+  <img src="assets/images/Screenshot%202026-04-23%20122420.png" width="85%">
 </p>
 
 ---
 
-### 📬 Screenshot 4
+### 📬 Contact Section
 <p align="center">
-  <img src="assets/images/Screenshots/Screenshot%202026-04-23%20122427.png" width="85%">
+  <img src="assets/images/Screenshot%202026-04-23%20122427.png" width="85%">
 </p>
 
-📌 About the Project
+---
+
+## 📌 About the Project
 
 This is a responsive personal portfolio website built to present:
+
 - My technical skills
 - Academic background
 - Projects and achievements
@@ -40,7 +45,9 @@ This is a responsive personal portfolio website built to present:
 
 The goal of this project is to build a professional online presence and demonstrate my web development skills.
 
-🛠️ Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
@@ -48,7 +55,9 @@ The goal of this project is to build a professional online presence and demonstr
 - JavaScript
 - Responsive Web Design
 
-🎯 Features
+---
+
+## 🎯 Features
 
 - Fully responsive design (mobile, tablet, desktop)
 - Modern UI with Bootstrap components
@@ -57,7 +66,9 @@ The goal of this project is to build a professional online presence and demonstr
 - Contact form section
 - Social media links integration
 
-🧑‍💻 Author
+---
+
+## 🧑‍💻 Author
 
 **Isuru Madusara**  
 BSc (Hons) Computing Undergraduate  
